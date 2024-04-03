@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Rashmika Wasala Arachchi</h1>
+<h1 align="center">Hi 👋, I'm W.A.D.K.R. Wasala Arachchi</h1>
 <h3 align="center">Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkavidu222&label=Profile%20views&color=0e75b6&style=flat" alt="rkavidu222" /> </p>
