@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://rkavidu222.blogspot.com , https://medium.com/@rkavidu222]](https://rkavidu222.blogspot.com , https://medium.com/@rkavidu222])
 
-- 💬 Ask me about **Java, HTML , CSS, etc**
+- 💬 Ask me about **Java, Angular , Springboot, etc**
 
 - 📫 How to reach me **rkavidu222@gmail.com**
 
