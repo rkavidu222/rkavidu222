@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkavidu222" alt="rkavidu222" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/rkavidu222](github.com/rkavidu222)
+- 👨‍💻 All of my projects are available at [rkavidu222](rkavidu222)
 
-- 📝 I regularly write articles on [✍️ Blog: rkavidu222.blogspot.com](✍️ Blog: rkavidu222.blogspot.com)
+- 📝 I regularly write articles on [rkavidu222.blogspot.com](rkavidu222.blogspot.com)
 
 - 💬 Ask me about **💻 Java & Spring Boot Development 🌐 Microservices Architecture ⚛️ Building Scalable Frontends with Angular 🔧 Backend APIs with REST & Kafka 📊 Database Management: MySQL & MongoDB 🛠️ Debugging & Testing with Postman & IntelliJ 🚀 Optimizing Digital Workflows**
 
-- 📫 How to reach me **📧 Email: rkavidu222@gmail.com 💼 LinkedIn: Kavindu Rashmika Wasala Arachchi**
+- 📫 How to reach me **📧 Email: rkavidu222@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/kavindu-rashmika-wasala-arachchi/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
